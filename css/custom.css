@@ -1,0 +1,14 @@
+.rezol-bg1{ background: #223378; }
+.rezol-bg2{ background: #f7941e; }
+.rezol-bg2:hover{ background: #f7941e; }
+.rezol-text1{color: #eeeeee !important;}
+.rezol-text2,.h4:hover{color: #f7941e !important;}
+.rezol-btn1{background: #f7941e;color: #fff}
+.rezol-btn1:hover{ background: #f7941e;color: #fff}
+.sticky-header{position: fixed;top: 0;width: 100%;background: black;}
+.more-btn{border: 2px solid #f7941e; color: #f7941e; background:transparent;}
+.more-btn:hover{color: #fff; background:#f7941e;}
+.hero-slider .slick-dots li.slick-active,.hero-slider .slick-dots li::before, .rezol-title::before, .rezol-title::after{border: 0px solid #f7941e;background: #f7941e;}
+.ti-arrow-circle-right:before,.ti-minus:before, .ti-plus:before, .ti-quote-left {color: #f7941e;}
+.work-slider .slick-dots li.slick-active button{border-color: #f7941e;}
+.overlay-primary::before{background: #f7941e;}
